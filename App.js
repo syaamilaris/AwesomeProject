@@ -12,7 +12,7 @@ export default function App() {
       {!name && (
         <View>
           <Text>
-            This is my first try on making a mobile apps using react native :D
+            This is my first try on making a mobile apps using react nativeasd :D
           </Text>
           <Text>Wait for the awesome contents later!</Text>
         </View>
