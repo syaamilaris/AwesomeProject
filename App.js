@@ -11,10 +11,9 @@ export default function App() {
     <View style={styles.container}>
       {!name && (
         <View>
-          <Text>
-            This is my first try on making a mobile apps using react native :D
-          </Text>
+          <Text>This is my first try on making a mobile apps using react native :D</Text>
           <Text>Wait for the awesome contents later!</Text>
+          <Text>right now im trying to figure out the pull and push stuff and how to update my file to a new branch</Text>
         </View>
       )}
       {name && (
