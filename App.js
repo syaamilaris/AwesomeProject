@@ -25,7 +25,7 @@ export default function App() {
 
       <Image
         source={{
-          uri: "https://reactnative.dev/docs/assets/p_cat2.png",
+          uri: "https://www.datocms-assets.com/45470/1631026680-logo-react-native.png",
         }}
         style={{ width: 250, height: 250 }}
       />
@@ -35,7 +35,7 @@ export default function App() {
         onChangeText={(text) => setNameInput(text)}
       />
       <Button
-        name="This is my name!"
+        name="Submit Button"
         click={() => {
           setName(nameInput);
           setNameInput("");
